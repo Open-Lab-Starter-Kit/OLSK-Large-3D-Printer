@@ -24,8 +24,8 @@ Author
 OLSK Large 3D Printer has been designed and built by **[InMachines Ingrassia GmbH](https://www.inmachines.net/)**.
 
 Machine design:
+- **[Daniele Ingrassia](https://www.linkedin.com/in/danieleingrassia/)**
 - **[Wilhelm Schütze](http://fabacademy.org/archives/2015/sa/students/schutze.wilhelm/index.html)**
-- **[Alberto Porri](http://fabacademy.org/2021/labs/santachiara/students/alberto-porri/)**
 
 The machine is part of the **[Open Lab Starter Kit (OLSK)](https://www.inmachines.net/open-lab-starter-kit)** group of open source digital fabrication machines.
 
