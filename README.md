@@ -15,6 +15,11 @@ OLSK Large 3D Printer is a big format 3D Printer with large printing volume of 1
 
 <img src="media/Highlights.jpg" width="100%">
 
+The Assembly Workbook
+--
+
+All OLSK machines are open source and have the BOM and necessary files available in this repository for replication. The assembly of parts is also documented in a workbook where each step contains a list of parts, tools and instruction remarks, following a logic order to provide a smooth assembly.
+
 Specifications V1
 --
 
