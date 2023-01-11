@@ -37,6 +37,13 @@ Specifications V1
 - automatic bed leveling with inductive probe
 - touch screen 
 
+Files
+--
+
+- **[CAD](cad)**
+- **[Assembly Workbook](OLSK_Large_3D_Printer_V1_Assembly_Workbook.pdf)**
+- **[Wiring Schematic](OLSK_Large_Printer_V1_Wiring_Schematic.pdf)**
+
 Author
 --
 
