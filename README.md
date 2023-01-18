@@ -41,6 +41,7 @@ Files
 --
 
 - **[CAD](cad)**
+- **[Converter PCB](converterPCB)**
 - **[Assembly Workbook](OLSK_Large_3D_Printer_V1_Assembly_Workbook.pdf)**
 - **[Wiring Schematic](OLSK_Large_Printer_V1_Wiring_Schematic.pdf)**
 
