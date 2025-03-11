@@ -42,6 +42,8 @@ Files
 
 - **[CAD](cad)**
 - **[Converter PCB](converterPCB)**
+- **[Main Board](https://github.com/bigtreetech/SKR-2)**
+- **[Firmware](firmware)**
 - **[Assembly Workbook](OLSK_Large_3D_Printer_V1_Assembly_Workbook.pdf)**
 - **[Wiring Schematic](OLSK_Large_Printer_V1_Wiring_Schematic.pdf)**
 
