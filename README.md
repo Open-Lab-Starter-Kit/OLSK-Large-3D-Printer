@@ -9,13 +9,12 @@
 Introduction
 --
 
-OLSK Large 3D Printer is a big format 3D Printer with large printing volume of 1000 x 1000 x 1300 mm, making it the largest open source 3D printer.
+OLSK Large 3D Printer is a big format 3D Printer with large printing volume of 1000 x 1000 x 1300 mm, making it the largest open source 3D printer. It is fully enclosed with access on two sides, has an efficient bed system with automated modular heating and Eddy Current Surface Scanner and has 1000m/s travel speed. It has industrial design, using linear rails on all axis, a Quad point self-levelling core XY gantry (4 x independent motors) and a built-in accelerometer.
+Kinetic joints for non-planar printing. It also features local and remote access, customized Klipper firmware, touch screen, camera, LED status indicator, easy belt tensioning system and ethernet and WiFi connectivity.
 
-<img src="media/OLSK_LargePrinter3.jpg" width="100%">
+<img src="media/Details.jpg" width="100%">
 
-<img src="media/Highlights.jpg" width="100%">
-
-The Assembly Workbook
+The Assembly Manual
 --
 
 All OLSK machines are open source and have an assembly manual, the BOM and necessary files available in this repository for replication. The assembly manual is an interactive 3D guide though each step and contains a list of parts, tools and instruction remarks, which follows a logic order to provide a smooth assembly.
@@ -27,10 +26,7 @@ Files
 --
 
 - **[CAD](cad)**
-- **[Converter PCB](converterPCB)**
-- **[Main Board](https://github.com/bigtreetech/SKR-2)**
-- **[Firmware](firmware)**
-- **[Wiring Schematic](OLSK_Large_Printer_V1_Wiring_Schematic.pdf)**
+- **[Wiring Schematic](OLSK_Large_3D_Printer_V2_WiringSchematic.pdf)**
 
 Author
 --
