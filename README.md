@@ -9,7 +9,7 @@
 Introduction
 --
 
-OLSK Large 3D Printer is a big format 3D Printer with large printing volume of 1000 x 1000 x 1300 mm, making it the largest open source 3D printer. It is fully enclosed with access on two sides, has an efficient bed system with automated modular heating and Eddy Current Surface Scanner and has 1000m/s travel speed. It has industrial design, using linear rails on all axis, a Quad point self-levelling core XY gantry (4 x independent motors) and a built-in accelerometer.
+OLSK Large 3D Printer is a big format 3D Printer with large printing volume of 1000 x 1000 x 1300 mm, making it the largest open source 3D printer. It is fully enclosed with access on two sides, has an efficient bed system with automated modular heating and Eddy Current Surface Scanner and has 1000 m/s travel speed. It has an industrial design, using linear rails on all axis, a quad-point self-leveling core XY gantry (4 x independent motors) and a built-in accelerometer.
 Kinetic joints for non-planar printing. It also features local and remote access, customized Klipper firmware, touch screen, camera, LED status indicator, easy belt tensioning system and ethernet and WiFi connectivity.
 
 <img src="media/Details.jpg" width="100%">
@@ -17,9 +17,34 @@ Kinetic joints for non-planar printing. It also features local and remote access
 The Assembly Manual
 --
 
-All OLSK machines are open source and have an assembly manual, the BOM and necessary files available in this repository for replication. The assembly manual is an interactive 3D guide though each step and contains a list of parts, tools and instruction remarks, which follows a logic order to provide a smooth assembly.
+All OLSK machines are open source and have an assembly manual, the BOM and necessary files available in this repository for replication. The assembly manual is an interactive 3D guide though each step and contains a list of parts, tools and instruction remarks, which follow a logical order to provide a smooth assembly.
 
 - **[Assembly Manual](https://open-lab-starter-kit.github.io/OLSK-Large-3D-Printer/)**
+
+Specifications V3
+--
+
+- Printing volume: 1000 x 1000 x 1300 mm
+- Filament based (60mm³/s)
+- Large melt zone compatible with standard V6 nozzles (1.2mm, 0.9 layer height)
+- Filament sensor
+- Fully enclosed housing
+- Motion system: core XY flying gantry
+- Linear rails on all axis
+- Quad point self-leveling gantry
+- Travel speed: 1000m/s
+- Built-in accelerometer
+- Kinetic joints for non-planar printing
+- Automated modular heating system
+- Eddy current surface scanning
+- Local and remote access
+- Mounted touchscreen
+- Customized Klipper firmware
+- Camera
+- LED status indicators
+- Ethernet and WiFi connectivity
+- Overcurrent, overheating and power loss protection
+- Built-in computer
 
 
 Files
@@ -65,3 +90,11 @@ Hardware design, CAD and PCB files, BOM, settings and other technical or design 
 Assembly manual, pictures, videos, presentations, description text and other type of media are released under the following license:
 
 - Creative-Commons-Attribution-ShareAlike 4.0 International - **[CC BY-SA 4.0](LICENSE_CC_BY_SA_4.0.txt)**
+
+Previous version
+--
+
+The previous versions of OLSK machines will always be available. 
+
+**[OLSK Large 3D Printer V1 Repository](OLSK_Large_3D_Printer_V1)** 
+<div><img src="media/OLSK-Large-3D-Printer.jpg" width="30%"></div>
