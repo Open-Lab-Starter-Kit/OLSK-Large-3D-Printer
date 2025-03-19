@@ -51,6 +51,8 @@ Files
 --
 
 - **[CAD](cad)**
+- **[Firmware](firmware)**
+- **[Settings](settings)**
 - **[Wiring Schematic](OLSK_Large_3D_Printer_V2_WiringSchematic.pdf)**
 
 Author
