@@ -54,6 +54,9 @@ Files
 - **[Firmware](firmware)**
 - **[Settings](settings)**
 - **[Wiring Schematic](OLSK_Large_3D_Printer_V2_WiringSchematic.pdf)**
+- **[BOM](OLSK_Large_3D_Printer_V3-BOM.xlsx)**
+
+
 
 Author
 --
