@@ -88,6 +88,9 @@ Contact
 License
 --
 
+See the LICENSES folder and the SPDX metadata for more details on other files.  The project
+is [REUSE](https://reuse.software/) compliant
+
 Hardware design, CAD and PCB files, BOM, settings and other technical or design files are released under the following license:
 
 - CERN Open Hardware Licence Version 2 Weakly Reciprocal - **[CERN-OHL-W](LICENSE_CERN_OHL_W_V2.txt)**
@@ -96,10 +99,17 @@ Assembly manual, pictures, videos, presentations, description text and other typ
 
 - Creative-Commons-Attribution-ShareAlike 4.0 International - **[CC BY-SA 4.0](LICENSE_CC_BY_SA_4.0.txt)**
 
+Copyright
+--
+
+- Daniele Ingrassia, InMachines Ingrassia GmbH
+
+- Tobias Redlich, Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg
+
 Previous version
 --
 
-The previous versions of OLSK machines will always be available. 
+The previous versions of OLSK machines will always be available.
 
-**[OLSK Large 3D Printer V1 Repository](OLSK_Large_3D_Printer_V1)** 
+**[OLSK Large 3D Printer V1 Repository](OLSK_Large_3D_Printer_V1)**
 <div><img src="media/OLSK-Large-3D-Printer.jpg" width="30%"></div>
